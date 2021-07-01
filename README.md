@@ -19,3 +19,7 @@
 ### Website
 
 - [Game Dev Tools for Raspberry Pi - Maintained by Dylan Bennett](https://pigame.dev/) - A website listing tools for game development
+
+### List
+
+- [Magic Tools](https://github.com/ellisonleao/magictools#readme) - An awesome game development list
