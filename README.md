@@ -23,3 +23,13 @@
 ### List
 
 - [Magic Tools](https://github.com/ellisonleao/magictools#readme) - An awesome game development list
+
+## Design
+
+### Theme/Color scheme
+
+- [Dracula Theme](https://draculatheme.com/) - 🧛🏻‍♂️ Dark theme for all the things!
+- [gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
+- [Solarized](https://ethanschoonover.com/solarized/) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
+- [Nord](https://www.nordtheme.com/) - An arctic, north-bluish color palette.
+- [Pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
