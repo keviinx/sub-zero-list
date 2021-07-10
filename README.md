@@ -33,3 +33,8 @@
 - [Solarized](https://ethanschoonover.com/solarized/) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [Nord](https://www.nordtheme.com/) - An arctic, north-bluish color palette.
 - [Pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
+
+### Color palettes
+
+- [Color Hunt](https://colorhunt.co/) - Color Palettes for Designers and Artists
+- [Lospec](https://lospec.com/) - Free tools and resources for people making pixel art, voxel art and more
