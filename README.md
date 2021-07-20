@@ -10,6 +10,21 @@
 
 - [First Timers Only](https://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies
 
+### Self-development
+
+- [Top 10 Useful GitHub Repos for Self-Development](https://dev.to/nehasoni__/top-10-useful-github-repos-for-self-development-25c0) - A list curated by Neha Soni on DEV Community.
+
+    1. [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+    2. [Awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+    3. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books
+    4. [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+    5. [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs
+    6. [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+    7. [JavaScript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2021)
+    8. [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+    9. [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+    10. [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+
 ## Game development
 
 ### Game engine
