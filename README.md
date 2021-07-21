@@ -53,3 +53,9 @@
 
 - [Color Hunt](https://colorhunt.co/) - Color Palettes for Designers and Artists
 - [Lospec](https://lospec.com/) - Free tools and resources for people making pixel art, voxel art and more
+
+## Legal
+
+### License
+
+- [Choose a License: Choose an open source license](https://choosealicense.com/) - Non-judgmental guidance on choosing a license for your open source project.
