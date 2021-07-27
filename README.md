@@ -39,6 +39,7 @@
 
 - [Magic Tools](https://github.com/ellisonleao/magictools#readme) - An awesome game development list
 - [Awesome Godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Open Source Game Clones](https://osgameclones.com/) - Open Source Clones of Popular Games
 
 ## Design
 
