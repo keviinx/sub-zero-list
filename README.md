@@ -25,11 +25,19 @@
     9. [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
     10. [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
+## Career
+
+### Resume
+
+- [Awesome CV](https://github.com/posquit0/Awesome-CV) - 📄 Awesome CV is LaTeX template for your outstanding job application
+- [JSON Resume](https://jsonresume.org/) - The open source initiative to create a JSON-based standard for resumes. For developers, by developers.
+
 ## Game development
 
 ### Game engine
 
 - [Godot](https://godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
+- [GDevelop](https://gdevelop.io/) - 🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
 
 ### Website
 
