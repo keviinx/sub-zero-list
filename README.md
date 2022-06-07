@@ -25,6 +25,11 @@
     9. [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
     10. [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
+### Books
+
+- [_R for Data Science_ by Garrett Grolemund & Hadley Wickham](https://r4ds.had.co.nz/index.html) - Free book from RStudio developers with emphasis on data science workflow
+- [_Hands-On Programming with R_ by Garrett Grolemund](https://rstudio-education.github.io/hopr/) - This is the development site for Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples 
+
 ## Career
 
 ### Resume
