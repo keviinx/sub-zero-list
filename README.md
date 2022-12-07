@@ -4,7 +4,7 @@
 
 ### Online learning
 
-- [[2021] Massive List of Thousands of Free Certificates and Badges](https://www.classcentral.com/report/free-certificates/) - Thousands of courses with free certificates and badges offered by MOOC platforms, universities, companies, and nonprofits worldwide.
+- [Massive List of Thousands of Free Certificates and Badges](https://www.classcentral.com/report/free-certificates/) - Thousands of courses with free certificates and badges offered by MOOC platforms, universities, companies, and nonprofits worldwide.
 
 ### Open source
 
