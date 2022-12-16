@@ -9,6 +9,7 @@
 ### Open source
 
 - [First Timers Only](https://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies
+- [First Contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 
 ### Self-development
 
@@ -27,12 +28,19 @@
 
 ### Books
 
+#### Data Science
+
+##### R
 - [_R for Data Science_ by Garrett Grolemund & Hadley Wickham](https://r4ds.had.co.nz/index.html) - Free book from RStudio developers with emphasis on data science workflow
 - [_Hands-On Programming with R_ by Garrett Grolemund](https://rstudio-education.github.io/hopr/) - This is the development site for Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples
-
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) - YaRrr! The Pirate's Guide to R
 
-### Learn R
+##### Python
+- [_Python Data Science Handbook_ by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook: full text in Jupyter Notebooks
+
+### Learn 
+
+#### R
 
 - [A (very) short introductio nto R](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R) - A (very) short introduction to R
 
@@ -55,6 +63,7 @@
 ### Website
 
 - [Game Dev Tools for Raspberry Pi - Maintained by Dylan Bennett](https://pigame.dev/) - A website listing tools for game development
+- [Program Arcade Games With Python and Pygame](http://programarcadegames.com/)
 
 ### List
 
