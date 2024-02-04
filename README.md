@@ -1,5 +1,12 @@
 # Sub-zero list
 
+## Personal Finance
+
+### Plain Text Accounting (PTA)
+
+- [Plain Text Accounting (PTA)](https://plaintextaccounting.org/) - a way of doing bookkeeping and accounting with plain text files and scriptable, command-line-friendly software
+- [Beancount](https://beancount.github.io/) - Double-Entry Accounting from Text Files
+
 ## Education
 
 ### Online learning
